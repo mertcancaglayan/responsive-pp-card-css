@@ -3,4 +3,4 @@ Responsive profile card with css
 
 Önizleme
 --------
-![Card Hover](card-text-reveal.gif)
+![Profile Card](profile-card-responsive.gif)
